@@ -1,0 +1,8 @@
+{
+	"cymon": {
+		"token": "your_token_code_here"
+	},
+	"shodan": {
+		"token": "your_token_code_here"
+	}
+}
