@@ -111,14 +111,9 @@ $> python sipi.py any_ip -A
 # Output Example:
  
  $> python sipi.py lista.txt -d 4 -A
-
-   _______ _____  _____  _____
-   |______   |   |_____]   |
-   ______| __|__ |       __|__
-   ---------------------------
-
+ 
    [[@SVTCloud] Simple IP Information Tool [[@st2labs]]
-
+    
      sIPi - is a free recorn tool for obtain IP Address Information from
      many Open Sources: cymon.io | shoda.io | ipinfo.io
 
