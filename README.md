@@ -1,9 +1,9 @@
 #Simple IP Information Tools (sIPI) 
 ##for IP Reputation Data Analysis
 
-[[@SVTCloud]] Simple IP Information Tool [[@st2labs]]
+[[@st2labs]] Simple IP Information Tool [[@st2labs]]
 
-__Author__: Julian J. Gonzalez Caracuel - Twitter: @rhodius | @seguriadxato2 | @st2labs | @svtcloud
+__Author__: Julian J. Gonzalez Caracuel - Twitter: @rhodius | @seguriadxato2 | @st2labs
 
 __Vesion__: 0.1
 
@@ -27,7 +27,7 @@ $> python sipi.py any_ip -A
 
 # Descripcion
  
- [[@SVTCloud] Simple IP Information Tool [[@st2labs]]
+[[@st2labs]] Simple IP Information Tool [[@st2labs]]
 
      sIPi - is a free reconnaissance tool for obtain IP Address Information from
      many Open Sources: cymon.io | shoda.io | ipinfo.io
@@ -112,7 +112,7 @@ $> python sipi.py any_ip -A
  
  $> python sipi.py lista.txt -d 4 -A
  
-   [[@SVTCloud] Simple IP Information Tool [[@st2labs]]
+   [[@st2labs]] Simple IP Information Tool [[@st2labs]]
     
      sIPi - is a free recorn tool for obtain IP Address Information from
      many Open Sources: cymon.io | shoda.io | ipinfo.io
@@ -174,7 +174,7 @@ $> python sipi.py any_ip -A
    
        [NOT_FOUND] IP 176.101.204.172  in this CATEGORIES:['malware', 'botnet', 'spam', 'phishing', 'blacklist', 'dnsbl']
    
-#License Info
+# License Info
 
 	This is free software; you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
