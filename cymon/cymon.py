@@ -2,7 +2,7 @@
 # ---
 # Cymon.io
 # Code from_: https://github.com/eSentire/cymon-python
-# Modify by MSOC / ST2Labs / SVTCloudSecurity
+# Modify by @Julian J Gonzalez / ST2Labs
 
 import json
 import requests
