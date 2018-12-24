@@ -1,5 +1,5 @@
 """
-Copyright 2015 Julian J. Gonzalez | SVTCloudSecurity
+Copyright 2015 Julian J. Gonzalez 
 www.st2labs.com | @ST2Labs | @rhodius | @seguridadxato2
 
 __Author__: Julian J. GOnzalez
@@ -18,10 +18,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along it; if not, write to the Free Software
 Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
-
-SOC Manager
-MSOC Security Team at @SVTCloud
-www.svtcloud.com
 """
 import sys
 import os
@@ -34,8 +30,8 @@ from cymon import Cymon
 
 __author__ = "\n   Julian J. Gonzalez Caracuel - @rhodius\n"
 __version__ = "   Version: 0.1\n"
-__team__ = "MSOC / CybeSecurity TEAM: 0.1\n"
-__title__ = '\n   [[@SVTCloud] Simple IP Information Tool [[@st2labs]]\n'
+__team__ = "    ST2Labs TEAM: 0.1\n"
+__title__ = '\n   Simple IP Information Tool [[@st2labs]]\n'
 __description__ = '''
      sIPi - is a free reconnaissance tool for obtain IP Address Information from
      many Open Sources: cymon.io | shoda.io | ipinfo.io
